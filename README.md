@@ -10,7 +10,7 @@ This project unifies raw advertising performance data from **Facebook Ads**, **G
 ## Tech Stack
 - **Storage / Modeling:** Google BigQuery
 - **Visualization:** Tableau (Tableau Public for publishing)
-- **Input data:** 3 CSV files
+- **Input data: ** 3 CSV files
 
 ---
 
