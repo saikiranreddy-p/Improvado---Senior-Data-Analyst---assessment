@@ -1,8 +1,8 @@
 WITH
 fb AS (
   SELECT
-    SAFE_CAST(date AS DATE) AS date,
-    'Facebook' AS platform,
+    SAFE_CAST(date AS DATE) AS date, 
+    'Facebook' AS platform ,
     CAST(campaign_id AS STRING) AS campaign_id,
     CAST(campaign_name AS STRING) AS campaign_name,
     CAST(ad_set_id AS STRING) AS ad_group_id,
